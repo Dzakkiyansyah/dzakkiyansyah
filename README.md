@@ -11,17 +11,7 @@
 - 🔥 Focused on mastering Full-Stack Web Development  
 - 🚀 Exploring modern technologies  
 - 🌱 Currently learning
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-
-  ## Hi, I'm Dzakkiyansyah 👋  
-
-I'm a Front-end Web Developer on a journey to becoming a Full-Stack Web Developer. Passionate about creating engaging and user-friendly web experiences, I am continuously learning and expanding my skill set.  
-
-### About Me  
-- 🎓 Informatics student at Ubudiyah University Indonesia  
-- 🔥 Focused on mastering Full-Stack Web Development  
-- 🚀 Exploring modern technologies  
-- 🌱 Currently learning *React* and *Node.js*  
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat" />
 
 <br>
 
